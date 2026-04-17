@@ -1,0 +1,557 @@
+2026-04-17 10:05:11,945 | INFO | Starting outreach run | DRY_RUN=True
+2026-04-17 10:05:27,510 | INFO | Starting outreach run | DRY_RUN=True
+2026-04-17 10:05:43,600 | INFO | [DRY RUN] Would DM @kabirboxingfit: Hi Kabir! We've been following your Boxing & Combat Fitness ...
+2026-04-17 10:05:50,609 | INFO | [DRY RUN] Would DM @tanyadancefitness: Hi Tanya! We've been following your Dance Fitness & Zumba jo...
+2026-04-17 10:05:57,619 | INFO | [DRY RUN] Would DM @kavyamindfulfit: Hi Kavya! We've been following your Mindful Fitness & Medita...
+2026-04-17 10:06:04,628 | INFO | [DRY RUN] Would DM @harshcrossfit: Hi Harsh! We've been following your CrossFit & Functional Tr...
+2026-04-17 10:06:11,648 | INFO | [DRY RUN] Would DM @aditihotyoga: Hi Aditi! We've been following your Hot Yoga & Bikram journe...
+2026-04-17 10:06:46,701 | INFO | [DRY RUN] Would DM @prathimafoodfitness: Hi Prathima! We've been following your Fitness Nutrition & M...
+2026-04-17 10:06:53,708 | INFO | [DRY RUN] Would DM @simranbhangrafitness: Hi Simran! We've been following your Bhangra Fitness journey...
+2026-04-17 10:07:00,716 | INFO | [DRY RUN] Would DM @kritidetoxfit: Hi Kriti! We've been following your Detox & Clean Eating Fit...
+2026-04-17 10:07:28,755 | INFO | [DRY RUN] Would DM @sneharunswild: Hi Sneha! We've been following your Running & Endurance jour...
+2026-04-17 10:08:17,744 | INFO | Starting outreach run | DRY_RUN=True
+2026-04-17 10:08:17,764 | INFO | [DRY RUN] Would email: priya.sharma.yoga@gmail.com
+2026-04-17 10:08:17,764 | INFO | [EMAIL] @priyafitwellness -> simulated
+2026-04-17 10:08:17,764 | INFO | [DRY RUN] Would DM @priyafitwellness
+2026-04-17 10:08:17,764 | INFO | [INSTAGRAM_DM] @priyafitwellness -> simulated
+2026-04-17 10:08:17,764 | INFO | [DRY RUN] Would email: ananya.bose.active@gmail.com
+2026-04-17 10:08:17,764 | INFO | [EMAIL] @ananyaactivewear -> simulated
+2026-04-17 10:08:17,764 | INFO | [DRY RUN] Would DM @ananyaactivewear
+2026-04-17 10:08:17,764 | INFO | [INSTAGRAM_DM] @ananyaactivewear -> simulated
+2026-04-17 10:08:17,764 | INFO | [DRY RUN] Would email: kabir.singh.boxing@gmail.com
+2026-04-17 10:08:17,771 | INFO | [EMAIL] @kabirboxingfit -> simulated
+2026-04-17 10:08:17,771 | INFO | [DRY RUN] Would DM @kabirboxingfit
+2026-04-17 10:08:17,771 | INFO | [INSTAGRAM_DM] @kabirboxingfit -> simulated
+2026-04-17 10:08:17,771 | INFO | [DRY RUN] Would email: tanya.malhotra.dance@gmail.com
+2026-04-17 10:08:17,772 | INFO | [EMAIL] @tanyadancefitness -> simulated
+2026-04-17 10:08:17,772 | INFO | [DRY RUN] Would DM @tanyadancefitness
+2026-04-17 10:08:17,772 | INFO | [INSTAGRAM_DM] @tanyadancefitness -> simulated
+2026-04-17 10:08:17,772 | INFO | [DRY RUN] Would email: kavya.menon.mindful@gmail.com
+2026-04-17 10:08:17,772 | INFO | [EMAIL] @kavyamindfulfit -> simulated
+2026-04-17 10:08:17,772 | INFO | [DRY RUN] Would DM @kavyamindfulfit
+2026-04-17 10:08:17,772 | INFO | [INSTAGRAM_DM] @kavyamindfulfit -> simulated
+2026-04-17 10:08:17,772 | INFO | [DRY RUN] Would email: harsh.agarwal.crossfit@gmail.com
+2026-04-17 10:08:17,772 | INFO | [EMAIL] @harshcrossfit -> simulated
+2026-04-17 10:08:17,772 | INFO | [DRY RUN] Would DM @harshcrossfit
+2026-04-17 10:08:17,772 | INFO | [INSTAGRAM_DM] @harshcrossfit -> simulated
+2026-04-17 10:08:17,772 | INFO | [DRY RUN] Would email: aditi.kulkarni.yoga@gmail.com
+2026-04-17 10:08:17,772 | INFO | [EMAIL] @aditihotyoga -> simulated
+2026-04-17 10:08:17,772 | INFO | [DRY RUN] Would DM @aditihotyoga
+2026-04-17 10:08:17,772 | INFO | [INSTAGRAM_DM] @aditihotyoga -> simulated
+2026-04-17 10:08:17,772 | INFO | [DRY RUN] Would email: neha.jain.bellydance@gmail.com
+2026-04-17 10:08:17,772 | INFO | [EMAIL] @nehabellydance -> simulated
+2026-04-17 10:08:17,772 | INFO | [DRY RUN] Would DM @nehabellydance
+2026-04-17 10:08:17,772 | INFO | [INSTAGRAM_DM] @nehabellydance -> simulated
+2026-04-17 10:08:17,774 | INFO | [DRY RUN] Would email: ritika.kapoor.moms@gmail.com
+2026-04-17 10:08:17,774 | INFO | [EMAIL] @ritikamumsfit -> simulated
+2026-04-17 10:08:17,774 | INFO | [DRY RUN] Would DM @ritikamumsfit
+2026-04-17 10:08:17,775 | INFO | [INSTAGRAM_DM] @ritikamumsfit -> simulated
+2026-04-17 10:08:17,775 | INFO | [DRY RUN] Would email: poornima.nambiar.strong@gmail.com
+2026-04-17 10:08:17,775 | INFO | [EMAIL] @poornimawomensfit -> simulated
+2026-04-17 10:08:17,775 | INFO | [DRY RUN] Would DM @poornimawomensfit
+2026-04-17 10:08:17,775 | INFO | [INSTAGRAM_DM] @poornimawomensfit -> simulated
+2026-04-17 10:08:17,775 | INFO | [DRY RUN] Would email: tanvi.mehrotra.pcos@gmail.com
+2026-04-17 10:08:17,775 | INFO | [EMAIL] @tanvifemalefit -> simulated
+2026-04-17 10:08:17,775 | INFO | [DRY RUN] Would DM @tanvifemalefit
+2026-04-17 10:08:17,775 | INFO | [INSTAGRAM_DM] @tanvifemalefit -> simulated
+2026-04-17 10:08:17,775 | INFO | [DRY RUN] Would email: prathima.gowda.food@gmail.com
+2026-04-17 10:08:17,775 | INFO | [EMAIL] @prathimafoodfitness -> simulated
+2026-04-17 10:08:17,775 | INFO | [DRY RUN] Would DM @prathimafoodfitness
+2026-04-17 10:08:17,775 | INFO | [INSTAGRAM_DM] @prathimafoodfitness -> simulated
+2026-04-17 10:08:17,775 | INFO | [DRY RUN] Would email: simran.kaur.bhangra@gmail.com
+2026-04-17 10:08:17,775 | INFO | [EMAIL] @simranbhangrafitness -> simulated
+2026-04-17 10:08:17,775 | INFO | [DRY RUN] Would DM @simranbhangrafitness
+2026-04-17 10:08:17,775 | INFO | [INSTAGRAM_DM] @simranbhangrafitness -> simulated
+2026-04-17 10:08:17,775 | INFO | [DRY RUN] Would email: kriti.srivastava.detox@gmail.com
+2026-04-17 10:08:17,775 | INFO | [EMAIL] @kritidetoxfit -> simulated
+2026-04-17 10:08:17,775 | INFO | [DRY RUN] Would DM @kritidetoxfit
+2026-04-17 10:08:17,778 | INFO | [INSTAGRAM_DM] @kritidetoxfit -> simulated
+2026-04-17 10:08:17,778 | INFO | [DRY RUN] Would email: harpreet.gill.punjab@gmail.com
+2026-04-17 10:08:17,778 | INFO | [EMAIL] @harpreetpunjabfit -> simulated
+2026-04-17 10:08:17,778 | INFO | [DRY RUN] Would DM @harpreetpunjabfit
+2026-04-17 10:08:17,779 | INFO | [INSTAGRAM_DM] @harpreetpunjabfit -> simulated
+2026-04-17 10:08:17,779 | INFO | [DRY RUN] Would email: hema.sundaram.yoga@gmail.com
+2026-04-17 10:08:17,779 | INFO | [EMAIL] @hemayogaayurveda -> simulated
+2026-04-17 10:08:17,779 | INFO | [DRY RUN] Would DM @hemayogaayurveda
+2026-04-17 10:08:17,779 | INFO | [INSTAGRAM_DM] @hemayogaayurveda -> simulated
+2026-04-17 10:08:17,780 | INFO | [DRY RUN] Would email: arjun.mehta.fitness@gmail.com
+2026-04-17 10:08:17,780 | INFO | [EMAIL] @arjunfitlife -> simulated
+2026-04-17 10:08:17,780 | INFO | [DRY RUN] Would DM @arjunfitlife
+2026-04-17 10:08:17,780 | INFO | [INSTAGRAM_DM] @arjunfitlife -> simulated
+2026-04-17 10:08:17,780 | INFO | [DRY RUN] Would email: sneha.iyer.runs@gmail.com
+2026-04-17 10:08:17,780 | INFO | [EMAIL] @sneharunswild -> simulated
+2026-04-17 10:08:17,781 | INFO | [DRY RUN] Would DM @sneharunswild
+2026-04-17 10:08:17,781 | INFO | [INSTAGRAM_DM] @sneharunswild -> simulated
+2026-04-17 10:08:17,781 | INFO | [DRY RUN] Would email: vikram.nair.hiit@gmail.com
+2026-04-17 10:08:17,781 | INFO | [EMAIL] @vikramhiit -> simulated
+2026-04-17 10:08:17,781 | INFO | [DRY RUN] Would DM @vikramhiit
+2026-04-17 10:08:17,781 | INFO | [INSTAGRAM_DM] @vikramhiit -> simulated
+2026-04-17 10:08:17,781 | INFO | [DRY RUN] Would email: riya.joshi.postpartum@gmail.com
+2026-04-17 10:08:17,781 | INFO | [EMAIL] @riyapostpartum -> simulated
+2026-04-17 10:08:17,781 | INFO | [DRY RUN] Would DM @riyapostpartum
+2026-04-17 10:08:17,781 | INFO | [INSTAGRAM_DM] @riyapostpartum -> simulated
+2026-04-17 10:08:17,781 | INFO | [DRY RUN] Would email: aditya.kumar.vegan@gmail.com
+2026-04-17 10:08:17,781 | INFO | [EMAIL] @adityaveganfit -> simulated
+2026-04-17 10:08:17,781 | INFO | [DRY RUN] Would DM @adityaveganfit
+2026-04-17 10:08:17,781 | INFO | [INSTAGRAM_DM] @adityaveganfit -> simulated
+2026-04-17 10:08:17,781 | INFO | [DRY RUN] Would email: nisha.reddy.weightloss@gmail.com
+2026-04-17 10:08:17,781 | INFO | [EMAIL] @nishaweightloss -> simulated
+2026-04-17 10:08:17,781 | INFO | [DRY RUN] Would DM @nishaweightloss
+2026-04-17 10:08:17,781 | INFO | [INSTAGRAM_DM] @nishaweightloss -> simulated
+2026-04-17 10:08:17,781 | INFO | [DRY RUN] Would email: divya.shetty.pilates@gmail.com
+2026-04-17 10:08:17,781 | INFO | [EMAIL] @divyapilatesfit -> simulated
+2026-04-17 10:08:17,781 | INFO | [DRY RUN] Would DM @divyapilatesfit
+2026-04-17 10:08:17,781 | INFO | [INSTAGRAM_DM] @divyapilatesfit -> simulated
+2026-04-17 10:08:17,781 | INFO | [DRY RUN] Would email: akash.bajaj.sports@gmail.com
+2026-04-17 10:08:17,781 | INFO | [EMAIL] @akashsportfit -> simulated
+2026-04-17 10:08:17,785 | INFO | [DRY RUN] Would DM @akashsportfit
+2026-04-17 10:08:17,785 | INFO | [INSTAGRAM_DM] @akashsportfit -> simulated
+2026-04-17 10:08:17,785 | INFO | [DRY RUN] Would email: shreya.chatterjee.home@gmail.com
+2026-04-17 10:08:17,786 | INFO | [EMAIL] @shreyahomeworkout -> simulated
+2026-04-17 10:08:17,786 | INFO | [DRY RUN] Would DM @shreyahomeworkout
+2026-04-17 10:08:17,787 | INFO | [INSTAGRAM_DM] @shreyahomeworkout -> simulated
+2026-04-17 10:08:17,787 | INFO | [DRY RUN] Would email: anjali.singh.stretch@gmail.com
+2026-04-17 10:08:17,787 | INFO | [EMAIL] @anjalistretchfit -> simulated
+2026-04-17 10:08:17,787 | INFO | [DRY RUN] Would DM @anjalistretchfit
+2026-04-17 10:08:17,787 | INFO | [INSTAGRAM_DM] @anjalistretchfit -> simulated
+2026-04-17 10:08:17,787 | INFO | [DRY RUN] Would email: karan.oberoi.athlete@gmail.com
+2026-04-17 10:08:17,787 | INFO | [EMAIL] @karanathletebody -> simulated
+2026-04-17 10:08:17,787 | INFO | [DRY RUN] Would DM @karanathletebody
+2026-04-17 10:08:17,787 | INFO | [INSTAGRAM_DM] @karanathletebody -> simulated
+2026-04-17 10:08:17,787 | INFO | [DRY RUN] Would email: swati.rajan.ayurveda@gmail.com
+2026-04-17 10:08:17,787 | INFO | [EMAIL] @swatiayurvedafit -> simulated
+2026-04-17 10:08:17,787 | INFO | [DRY RUN] Would DM @swatiayurvedafit
+2026-04-17 10:08:17,787 | INFO | [INSTAGRAM_DM] @swatiayurvedafit -> simulated
+2026-04-17 10:08:17,787 | INFO | [DRY RUN] Would email: vivek.pandya.kick@gmail.com
+2026-04-17 10:08:17,787 | INFO | [EMAIL] @vivekkickboxing -> simulated
+2026-04-17 10:08:17,787 | INFO | [DRY RUN] Would DM @vivekkickboxing
+2026-04-17 10:08:17,787 | INFO | [INSTAGRAM_DM] @vivekkickboxing -> simulated
+2026-04-17 10:08:17,787 | INFO | [DRY RUN] Would email: bharat.chawla.yogabro@gmail.com
+2026-04-17 10:08:17,787 | INFO | [EMAIL] @bharatyogabro -> simulated
+2026-04-17 10:08:17,787 | INFO | [DRY RUN] Would DM @bharatyogabro
+2026-04-17 10:08:17,787 | INFO | [INSTAGRAM_DM] @bharatyogabro -> simulated
+2026-04-17 10:08:17,787 | INFO | [DRY RUN] Would email: lalita.devi.fit50@gmail.com
+2026-04-17 10:08:17,787 | INFO | [EMAIL] @lalitaweightloss50 -> simulated
+2026-04-17 10:08:17,787 | INFO | [DRY RUN] Would DM @lalitaweightloss50
+2026-04-17 10:08:17,790 | INFO | [INSTAGRAM_DM] @lalitaweightloss50 -> simulated
+2026-04-17 10:08:17,790 | INFO | [DRY RUN] Would email: devika.naik.stretch@gmail.com
+2026-04-17 10:08:17,790 | INFO | [EMAIL] @devikastretchifit -> simulated
+2026-04-17 10:08:17,790 | INFO | [DRY RUN] Would DM @devikastretchifit
+2026-04-17 10:08:17,790 | INFO | [INSTAGRAM_DM] @devikastretchifit -> simulated
+2026-04-17 10:08:17,790 | INFO | [DRY RUN] Would email: mohammed.aziz.wrestle@gmail.com
+2026-04-17 10:08:17,790 | INFO | [EMAIL] @mohammedwrestlefit -> simulated
+2026-04-17 10:08:17,790 | INFO | [DRY RUN] Would DM @mohammedwrestlefit
+2026-04-17 10:08:17,790 | INFO | [INSTAGRAM_DM] @mohammedwrestlefit -> simulated
+2026-04-17 10:08:17,790 | INFO | [DRY RUN] Would email: meera.pillai.flex@gmail.com
+2026-04-17 10:08:17,790 | INFO | [EMAIL] @meeraflexibility -> simulated
+2026-04-17 10:08:17,790 | INFO | [DRY RUN] Would DM @meeraflexibility
+2026-04-17 10:08:17,790 | INFO | [INSTAGRAM_DM] @meeraflexibility -> simulated
+2026-04-17 10:08:17,794 | INFO | [DRY RUN] Would email: pooja.rao.seniorfit@gmail.com
+2026-04-17 10:08:17,794 | INFO | [EMAIL] @poojaseniorfit -> simulated
+2026-04-17 10:08:17,794 | INFO | [DRY RUN] Would DM @poojaseniorfit
+2026-04-17 10:08:17,794 | INFO | [INSTAGRAM_DM] @poojaseniorfit -> simulated
+2026-04-17 10:08:17,794 | INFO | [DRY RUN] Would email: suresh.krishnan.martial@gmail.com
+2026-04-17 10:08:17,794 | INFO | [EMAIL] @sureshmartialfit -> simulated
+2026-04-17 10:08:17,794 | INFO | [DRY RUN] Would DM @sureshmartialfit
+2026-04-17 10:08:17,794 | INFO | [INSTAGRAM_DM] @sureshmartialfit -> simulated
+2026-04-17 10:08:17,794 | INFO | [DRY RUN] Would email: rajan.pillai.swim@gmail.com
+2026-04-17 10:08:17,794 | INFO | [EMAIL] @rajanswimcoach -> simulated
+2026-04-17 10:08:17,794 | INFO | [DRY RUN] Would DM @rajanswimcoach
+2026-04-17 10:08:17,794 | INFO | [INSTAGRAM_DM] @rajanswimcoach -> simulated
+2026-04-17 10:08:17,794 | INFO | [DRY RUN] Would email: deepak.gupta.nutri@gmail.com
+2026-04-17 10:08:17,794 | INFO | [EMAIL] @deepaknutrifitness -> simulated
+2026-04-17 10:08:17,794 | INFO | [DRY RUN] Would email: saurabh.pandey.cycle@gmail.com
+2026-04-17 10:08:17,794 | INFO | [EMAIL] @saurabhcyclist -> simulated
+2026-04-17 10:08:17,794 | INFO | [DRY RUN] Would email: rohit.thakur.swim@gmail.com
+2026-04-17 10:08:17,794 | INFO | [EMAIL] @rohitswimfit -> simulated
+2026-04-17 10:08:17,794 | INFO | [DRY RUN] Would DM @rohitswimfit
+2026-04-17 10:08:17,794 | INFO | [INSTAGRAM_DM] @rohitswimfit -> simulated
+2026-04-17 10:08:17,794 | INFO | [DRY RUN] Would email: manish.tiwari.trail@gmail.com
+2026-04-17 10:08:17,799 | INFO | [EMAIL] @manishtrailrun -> simulated
+2026-04-17 10:08:17,799 | INFO | [DRY RUN] Would email: nikhil.desai.natty@gmail.com
+2026-04-17 10:08:17,800 | INFO | [EMAIL] @nikhilbodybuilder -> simulated
+2026-04-17 10:08:17,800 | INFO | [DRY RUN] Would email: pranav.mishra.keto@gmail.com
+2026-04-17 10:08:17,800 | INFO | [EMAIL] @pranavketofitness -> simulated
+2026-04-17 10:08:17,800 | INFO | [DRY RUN] Would email: sameer.bhat.outdoor@gmail.com
+2026-04-17 10:08:17,800 | INFO | [EMAIL] @sameeroutdoorfit -> simulated
+2026-04-17 10:08:17,800 | INFO | [DRY RUN] Would DM @sameeroutdoorfit
+2026-04-17 10:08:17,800 | INFO | [INSTAGRAM_DM] @sameeroutdoorfit -> simulated
+2026-04-17 10:08:17,800 | INFO | [DRY RUN] Would email: gaurav.saxena.gym@gmail.com
+2026-04-17 10:08:17,800 | INFO | [EMAIL] @gauravgymbro -> simulated
+2026-04-17 10:08:17,800 | INFO | [DRY RUN] Would email: chirag.shah.calisthenics@gmail.com
+2026-04-17 10:08:17,800 | INFO | [EMAIL] @chiragcalisthenics -> simulated
+2026-04-17 10:08:17,800 | INFO | [DRY RUN] Would email: arun.varma.triathlon@gmail.com
+2026-04-17 10:08:17,800 | INFO | [EMAIL] @aruntriathlonind -> simulated
+2026-04-17 10:08:17,800 | INFO | [DRY RUN] Would email: vandana.tripathi.nature@gmail.com
+2026-04-17 10:08:17,800 | INFO | [EMAIL] @vandananaturopath -> simulated
+2026-04-17 10:08:17,800 | INFO | [DRY RUN] Would email: sanjay.dubey.parkour@gmail.com
+2026-04-17 10:08:17,800 | INFO | [EMAIL] @sanjayparkourindia -> simulated
+2026-04-17 10:08:17,800 | INFO | [DRY RUN] Would email: rahul.verma.strength@gmail.com
+2026-04-17 10:08:17,800 | INFO | [EMAIL] @rahulstrength -> simulated
+2026-04-17 10:08:38,848 | INFO | [DRY RUN] Would DM @swatiayurvedafit: Hi Swati! We've been following your Ayurveda & Holistic Fitn...
+2026-04-17 10:08:52,863 | INFO | [DRY RUN] Would DM @bharatyogabro: Hi Bharat! We've been following your Men's Yoga & Mindfulnes...
+2026-04-17 10:08:59,869 | INFO | [DRY RUN] Would DM @lalitaweightloss50: Hi Lalita! We've been following your Fitness After 50 journe...
+2026-04-17 10:09:06,878 | INFO | [DRY RUN] Would DM @devikastretchifit: Hi Devika! We've been following your Stretch & Strength jour...
+2026-04-17 10:09:27,904 | INFO | [DRY RUN] Would DM @poojaseniorfit: Hi Pooja! We've been following your Senior Fitness & Active ...
+2026-04-17 10:09:34,914 | INFO | [DRY RUN] Would DM @sureshmartialfit: Hi Suresh! We've been following your Martial Arts & MMA Fitn...
+2026-04-17 10:09:41,921 | INFO | [DRY RUN] Would DM @rajanswimcoach: Hi Rajan! We've been following your Swimming Coaching journe...
+2026-04-17 10:22:14,761 | INFO | Starting outreach run | DRY_RUN=True
+2026-04-17 10:22:14,782 | INFO | [DRY RUN] Would email: priya.sharma.yoga@gmail.com
+2026-04-17 10:22:14,782 | INFO | [EMAIL] @priyafitwellness -> simulated
+2026-04-17 10:22:14,782 | INFO | [DRY RUN] Would DM @priyafitwellness
+2026-04-17 10:22:14,782 | INFO | [INSTAGRAM_DM] @priyafitwellness -> simulated
+2026-04-17 10:22:14,782 | INFO | [DRY RUN] Would email: ananya.bose.active@gmail.com
+2026-04-17 10:22:14,782 | INFO | [EMAIL] @ananyaactivewear -> simulated
+2026-04-17 10:22:14,782 | INFO | [DRY RUN] Would DM @ananyaactivewear
+2026-04-17 10:22:14,782 | INFO | [INSTAGRAM_DM] @ananyaactivewear -> simulated
+2026-04-17 10:22:14,782 | INFO | [DRY RUN] Would email: kabir.singh.boxing@gmail.com
+2026-04-17 10:22:14,782 | INFO | [EMAIL] @kabirboxingfit -> simulated
+2026-04-17 10:22:14,782 | INFO | [DRY RUN] Would DM @kabirboxingfit
+2026-04-17 10:22:14,782 | INFO | [INSTAGRAM_DM] @kabirboxingfit -> simulated
+2026-04-17 10:22:14,782 | INFO | [DRY RUN] Would email: tanya.malhotra.dance@gmail.com
+2026-04-17 10:22:14,782 | INFO | [EMAIL] @tanyadancefitness -> simulated
+2026-04-17 10:22:14,782 | INFO | [DRY RUN] Would DM @tanyadancefitness
+2026-04-17 10:22:14,788 | INFO | [INSTAGRAM_DM] @tanyadancefitness -> simulated
+2026-04-17 10:22:14,788 | INFO | [DRY RUN] Would email: kavya.menon.mindful@gmail.com
+2026-04-17 10:22:14,788 | INFO | [EMAIL] @kavyamindfulfit -> simulated
+2026-04-17 10:22:14,788 | INFO | [DRY RUN] Would DM @kavyamindfulfit
+2026-04-17 10:22:14,788 | INFO | [INSTAGRAM_DM] @kavyamindfulfit -> simulated
+2026-04-17 10:22:14,788 | INFO | [DRY RUN] Would email: harsh.agarwal.crossfit@gmail.com
+2026-04-17 10:22:14,788 | INFO | [EMAIL] @harshcrossfit -> simulated
+2026-04-17 10:22:14,788 | INFO | [DRY RUN] Would DM @harshcrossfit
+2026-04-17 10:22:14,788 | INFO | [INSTAGRAM_DM] @harshcrossfit -> simulated
+2026-04-17 10:22:14,788 | INFO | [DRY RUN] Would email: aditi.kulkarni.yoga@gmail.com
+2026-04-17 10:22:14,788 | INFO | [EMAIL] @aditihotyoga -> simulated
+2026-04-17 10:22:14,788 | INFO | [DRY RUN] Would DM @aditihotyoga
+2026-04-17 10:22:14,788 | INFO | [INSTAGRAM_DM] @aditihotyoga -> simulated
+2026-04-17 10:22:14,788 | INFO | [DRY RUN] Would email: neha.jain.bellydance@gmail.com
+2026-04-17 10:22:14,788 | INFO | [EMAIL] @nehabellydance -> simulated
+2026-04-17 10:22:14,788 | INFO | [DRY RUN] Would DM @nehabellydance
+2026-04-17 10:22:14,788 | INFO | [INSTAGRAM_DM] @nehabellydance -> simulated
+2026-04-17 10:22:14,788 | INFO | [DRY RUN] Would email: ritika.kapoor.moms@gmail.com
+2026-04-17 10:22:14,788 | INFO | [EMAIL] @ritikamumsfit -> simulated
+2026-04-17 10:22:14,788 | INFO | [DRY RUN] Would DM @ritikamumsfit
+2026-04-17 10:22:14,788 | INFO | [INSTAGRAM_DM] @ritikamumsfit -> simulated
+2026-04-17 10:22:14,788 | INFO | [DRY RUN] Would email: poornima.nambiar.strong@gmail.com
+2026-04-17 10:22:14,788 | INFO | [EMAIL] @poornimawomensfit -> simulated
+2026-04-17 10:22:14,788 | INFO | [DRY RUN] Would DM @poornimawomensfit
+2026-04-17 10:22:14,788 | INFO | [INSTAGRAM_DM] @poornimawomensfit -> simulated
+2026-04-17 10:22:14,788 | INFO | [DRY RUN] Would email: tanvi.mehrotra.pcos@gmail.com
+2026-04-17 10:22:14,788 | INFO | [EMAIL] @tanvifemalefit -> simulated
+2026-04-17 10:22:14,788 | INFO | [DRY RUN] Would DM @tanvifemalefit
+2026-04-17 10:22:14,788 | INFO | [INSTAGRAM_DM] @tanvifemalefit -> simulated
+2026-04-17 10:22:14,788 | INFO | [DRY RUN] Would email: prathima.gowda.food@gmail.com
+2026-04-17 10:22:14,788 | INFO | [EMAIL] @prathimafoodfitness -> simulated
+2026-04-17 10:22:14,788 | INFO | [DRY RUN] Would DM @prathimafoodfitness
+2026-04-17 10:22:14,788 | INFO | [INSTAGRAM_DM] @prathimafoodfitness -> simulated
+2026-04-17 10:22:14,788 | INFO | [DRY RUN] Would email: simran.kaur.bhangra@gmail.com
+2026-04-17 10:22:14,788 | INFO | [EMAIL] @simranbhangrafitness -> simulated
+2026-04-17 10:22:14,788 | INFO | [DRY RUN] Would DM @simranbhangrafitness
+2026-04-17 10:22:14,788 | INFO | [INSTAGRAM_DM] @simranbhangrafitness -> simulated
+2026-04-17 10:22:14,788 | INFO | [DRY RUN] Would email: kriti.srivastava.detox@gmail.com
+2026-04-17 10:22:14,788 | INFO | [EMAIL] @kritidetoxfit -> simulated
+2026-04-17 10:22:14,788 | INFO | [DRY RUN] Would DM @kritidetoxfit
+2026-04-17 10:22:14,788 | INFO | [INSTAGRAM_DM] @kritidetoxfit -> simulated
+2026-04-17 10:22:14,788 | INFO | [DRY RUN] Would email: harpreet.gill.punjab@gmail.com
+2026-04-17 10:22:14,788 | INFO | [EMAIL] @harpreetpunjabfit -> simulated
+2026-04-17 10:22:14,788 | INFO | [DRY RUN] Would DM @harpreetpunjabfit
+2026-04-17 10:22:14,788 | INFO | [INSTAGRAM_DM] @harpreetpunjabfit -> simulated
+2026-04-17 10:22:14,788 | INFO | [DRY RUN] Would email: hema.sundaram.yoga@gmail.com
+2026-04-17 10:22:14,788 | INFO | [EMAIL] @hemayogaayurveda -> simulated
+2026-04-17 10:22:14,788 | INFO | [DRY RUN] Would DM @hemayogaayurveda
+2026-04-17 10:22:14,788 | INFO | [INSTAGRAM_DM] @hemayogaayurveda -> simulated
+2026-04-17 10:22:14,788 | INFO | [DRY RUN] Would email: arjun.mehta.fitness@gmail.com
+2026-04-17 10:22:14,788 | INFO | [EMAIL] @arjunfitlife -> simulated
+2026-04-17 10:22:14,788 | INFO | [DRY RUN] Would DM @arjunfitlife
+2026-04-17 10:22:14,788 | INFO | [INSTAGRAM_DM] @arjunfitlife -> simulated
+2026-04-17 10:22:14,788 | INFO | [DRY RUN] Would email: sneha.iyer.runs@gmail.com
+2026-04-17 10:22:14,788 | INFO | [EMAIL] @sneharunswild -> simulated
+2026-04-17 10:22:14,788 | INFO | [DRY RUN] Would DM @sneharunswild
+2026-04-17 10:22:14,788 | INFO | [INSTAGRAM_DM] @sneharunswild -> simulated
+2026-04-17 10:22:14,788 | INFO | [DRY RUN] Would email: vikram.nair.hiit@gmail.com
+2026-04-17 10:22:14,788 | INFO | [EMAIL] @vikramhiit -> simulated
+2026-04-17 10:22:14,788 | INFO | [DRY RUN] Would DM @vikramhiit
+2026-04-17 10:22:14,788 | INFO | [INSTAGRAM_DM] @vikramhiit -> simulated
+2026-04-17 10:22:14,788 | INFO | [DRY RUN] Would email: riya.joshi.postpartum@gmail.com
+2026-04-17 10:22:14,788 | INFO | [EMAIL] @riyapostpartum -> simulated
+2026-04-17 10:22:14,788 | INFO | [DRY RUN] Would DM @riyapostpartum
+2026-04-17 10:22:14,788 | INFO | [INSTAGRAM_DM] @riyapostpartum -> simulated
+2026-04-17 10:22:14,788 | INFO | [DRY RUN] Would email: aditya.kumar.vegan@gmail.com
+2026-04-17 10:22:14,788 | INFO | [EMAIL] @adityaveganfit -> simulated
+2026-04-17 10:22:14,788 | INFO | [DRY RUN] Would DM @adityaveganfit
+2026-04-17 10:22:14,788 | INFO | [INSTAGRAM_DM] @adityaveganfit -> simulated
+2026-04-17 10:22:14,788 | INFO | [DRY RUN] Would email: nisha.reddy.weightloss@gmail.com
+2026-04-17 10:22:14,788 | INFO | [EMAIL] @nishaweightloss -> simulated
+2026-04-17 10:22:14,788 | INFO | [DRY RUN] Would DM @nishaweightloss
+2026-04-17 10:22:14,788 | INFO | [INSTAGRAM_DM] @nishaweightloss -> simulated
+2026-04-17 10:22:14,788 | INFO | [DRY RUN] Would email: divya.shetty.pilates@gmail.com
+2026-04-17 10:22:14,788 | INFO | [EMAIL] @divyapilatesfit -> simulated
+2026-04-17 10:22:14,788 | INFO | [DRY RUN] Would DM @divyapilatesfit
+2026-04-17 10:22:14,788 | INFO | [INSTAGRAM_DM] @divyapilatesfit -> simulated
+2026-04-17 10:22:14,788 | INFO | [DRY RUN] Would email: akash.bajaj.sports@gmail.com
+2026-04-17 10:22:14,788 | INFO | [EMAIL] @akashsportfit -> simulated
+2026-04-17 10:22:14,788 | INFO | [DRY RUN] Would DM @akashsportfit
+2026-04-17 10:22:14,788 | INFO | [INSTAGRAM_DM] @akashsportfit -> simulated
+2026-04-17 10:22:14,788 | INFO | [DRY RUN] Would email: shreya.chatterjee.home@gmail.com
+2026-04-17 10:22:14,788 | INFO | [EMAIL] @shreyahomeworkout -> simulated
+2026-04-17 10:22:14,788 | INFO | [DRY RUN] Would DM @shreyahomeworkout
+2026-04-17 10:22:14,788 | INFO | [INSTAGRAM_DM] @shreyahomeworkout -> simulated
+2026-04-17 10:22:14,788 | INFO | [DRY RUN] Would email: anjali.singh.stretch@gmail.com
+2026-04-17 10:22:14,788 | INFO | [EMAIL] @anjalistretchfit -> simulated
+2026-04-17 10:22:14,788 | INFO | [DRY RUN] Would DM @anjalistretchfit
+2026-04-17 10:22:14,788 | INFO | [INSTAGRAM_DM] @anjalistretchfit -> simulated
+2026-04-17 10:22:14,788 | INFO | [DRY RUN] Would email: karan.oberoi.athlete@gmail.com
+2026-04-17 10:22:14,788 | INFO | [EMAIL] @karanathletebody -> simulated
+2026-04-17 10:22:14,788 | INFO | [DRY RUN] Would DM @karanathletebody
+2026-04-17 10:22:14,788 | INFO | [INSTAGRAM_DM] @karanathletebody -> simulated
+2026-04-17 10:22:14,788 | INFO | [DRY RUN] Would email: swati.rajan.ayurveda@gmail.com
+2026-04-17 10:22:14,797 | INFO | [EMAIL] @swatiayurvedafit -> simulated
+2026-04-17 10:22:14,797 | INFO | [DRY RUN] Would DM @swatiayurvedafit
+2026-04-17 10:22:14,797 | INFO | [INSTAGRAM_DM] @swatiayurvedafit -> simulated
+2026-04-17 10:22:14,797 | INFO | [DRY RUN] Would email: vivek.pandya.kick@gmail.com
+2026-04-17 10:22:14,797 | INFO | [EMAIL] @vivekkickboxing -> simulated
+2026-04-17 10:22:14,797 | INFO | [DRY RUN] Would DM @vivekkickboxing
+2026-04-17 10:22:14,797 | INFO | [INSTAGRAM_DM] @vivekkickboxing -> simulated
+2026-04-17 10:22:14,797 | INFO | [DRY RUN] Would email: bharat.chawla.yogabro@gmail.com
+2026-04-17 10:22:14,797 | INFO | [EMAIL] @bharatyogabro -> simulated
+2026-04-17 10:22:14,797 | INFO | [DRY RUN] Would DM @bharatyogabro
+2026-04-17 10:22:14,797 | INFO | [INSTAGRAM_DM] @bharatyogabro -> simulated
+2026-04-17 10:22:14,797 | INFO | [DRY RUN] Would email: lalita.devi.fit50@gmail.com
+2026-04-17 10:22:14,797 | INFO | [EMAIL] @lalitaweightloss50 -> simulated
+2026-04-17 10:22:14,797 | INFO | [DRY RUN] Would DM @lalitaweightloss50
+2026-04-17 10:22:14,797 | INFO | [INSTAGRAM_DM] @lalitaweightloss50 -> simulated
+2026-04-17 10:22:14,797 | INFO | [DRY RUN] Would email: devika.naik.stretch@gmail.com
+2026-04-17 10:22:14,797 | INFO | [EMAIL] @devikastretchifit -> simulated
+2026-04-17 10:22:14,797 | INFO | [DRY RUN] Would DM @devikastretchifit
+2026-04-17 10:22:14,797 | INFO | [INSTAGRAM_DM] @devikastretchifit -> simulated
+2026-04-17 10:22:14,797 | INFO | [DRY RUN] Would email: mohammed.aziz.wrestle@gmail.com
+2026-04-17 10:22:14,797 | INFO | [EMAIL] @mohammedwrestlefit -> simulated
+2026-04-17 10:22:14,797 | INFO | [DRY RUN] Would DM @mohammedwrestlefit
+2026-04-17 10:22:14,797 | INFO | [INSTAGRAM_DM] @mohammedwrestlefit -> simulated
+2026-04-17 10:22:14,797 | INFO | [DRY RUN] Would email: meera.pillai.flex@gmail.com
+2026-04-17 10:22:14,797 | INFO | [EMAIL] @meeraflexibility -> simulated
+2026-04-17 10:22:14,797 | INFO | [DRY RUN] Would DM @meeraflexibility
+2026-04-17 10:22:14,797 | INFO | [INSTAGRAM_DM] @meeraflexibility -> simulated
+2026-04-17 10:22:14,797 | INFO | [DRY RUN] Would email: pooja.rao.seniorfit@gmail.com
+2026-04-17 10:22:14,797 | INFO | [EMAIL] @poojaseniorfit -> simulated
+2026-04-17 10:22:14,797 | INFO | [DRY RUN] Would DM @poojaseniorfit
+2026-04-17 10:22:14,797 | INFO | [INSTAGRAM_DM] @poojaseniorfit -> simulated
+2026-04-17 10:22:14,797 | INFO | [DRY RUN] Would email: suresh.krishnan.martial@gmail.com
+2026-04-17 10:22:14,797 | INFO | [EMAIL] @sureshmartialfit -> simulated
+2026-04-17 10:22:14,797 | INFO | [DRY RUN] Would DM @sureshmartialfit
+2026-04-17 10:22:14,797 | INFO | [INSTAGRAM_DM] @sureshmartialfit -> simulated
+2026-04-17 10:22:14,797 | INFO | [DRY RUN] Would email: rajan.pillai.swim@gmail.com
+2026-04-17 10:22:14,797 | INFO | [EMAIL] @rajanswimcoach -> simulated
+2026-04-17 10:22:14,797 | INFO | [DRY RUN] Would DM @rajanswimcoach
+2026-04-17 10:22:14,797 | INFO | [INSTAGRAM_DM] @rajanswimcoach -> simulated
+2026-04-17 10:22:14,797 | INFO | [DRY RUN] Would email: deepak.gupta.nutri@gmail.com
+2026-04-17 10:22:14,797 | INFO | [EMAIL] @deepaknutrifitness -> simulated
+2026-04-17 10:22:14,797 | INFO | [DRY RUN] Would email: saurabh.pandey.cycle@gmail.com
+2026-04-17 10:22:14,797 | INFO | [EMAIL] @saurabhcyclist -> simulated
+2026-04-17 10:22:14,797 | INFO | [DRY RUN] Would email: rohit.thakur.swim@gmail.com
+2026-04-17 10:22:14,797 | INFO | [EMAIL] @rohitswimfit -> simulated
+2026-04-17 10:22:14,797 | INFO | [DRY RUN] Would DM @rohitswimfit
+2026-04-17 10:22:14,797 | INFO | [INSTAGRAM_DM] @rohitswimfit -> simulated
+2026-04-17 10:22:14,797 | INFO | [DRY RUN] Would email: manish.tiwari.trail@gmail.com
+2026-04-17 10:22:14,797 | INFO | [EMAIL] @manishtrailrun -> simulated
+2026-04-17 10:22:14,797 | INFO | [DRY RUN] Would email: nikhil.desai.natty@gmail.com
+2026-04-17 10:22:14,797 | INFO | [EMAIL] @nikhilbodybuilder -> simulated
+2026-04-17 10:22:14,797 | INFO | [DRY RUN] Would email: pranav.mishra.keto@gmail.com
+2026-04-17 10:22:14,797 | INFO | [EMAIL] @pranavketofitness -> simulated
+2026-04-17 10:22:14,797 | INFO | [DRY RUN] Would email: sameer.bhat.outdoor@gmail.com
+2026-04-17 10:22:14,797 | INFO | [EMAIL] @sameeroutdoorfit -> simulated
+2026-04-17 10:22:14,797 | INFO | [DRY RUN] Would DM @sameeroutdoorfit
+2026-04-17 10:22:14,797 | INFO | [INSTAGRAM_DM] @sameeroutdoorfit -> simulated
+2026-04-17 10:22:14,797 | INFO | [DRY RUN] Would email: gaurav.saxena.gym@gmail.com
+2026-04-17 10:22:14,797 | INFO | [EMAIL] @gauravgymbro -> simulated
+2026-04-17 10:22:14,797 | INFO | [DRY RUN] Would email: chirag.shah.calisthenics@gmail.com
+2026-04-17 10:22:14,797 | INFO | [EMAIL] @chiragcalisthenics -> simulated
+2026-04-17 10:22:14,797 | INFO | [DRY RUN] Would email: arun.varma.triathlon@gmail.com
+2026-04-17 10:22:14,797 | INFO | [EMAIL] @aruntriathlonind -> simulated
+2026-04-17 10:22:14,797 | INFO | [DRY RUN] Would email: vandana.tripathi.nature@gmail.com
+2026-04-17 10:22:14,797 | INFO | [EMAIL] @vandananaturopath -> simulated
+2026-04-17 10:22:14,797 | INFO | [DRY RUN] Would email: sanjay.dubey.parkour@gmail.com
+2026-04-17 10:22:14,797 | INFO | [EMAIL] @sanjayparkourindia -> simulated
+2026-04-17 10:22:14,797 | INFO | [DRY RUN] Would email: rahul.verma.strength@gmail.com
+2026-04-17 10:22:14,797 | INFO | [EMAIL] @rahulstrength -> simulated
+2026-04-17 10:22:14,797 | INFO | Delivery log saved -> output/delivery_log.csv
+2026-04-17 10:22:39,213 | INFO | Starting outreach run | DRY_RUN=True
+2026-04-17 10:22:39,236 | INFO | [DRY RUN] Would email: priya.sharma.yoga@gmail.com
+2026-04-17 10:22:39,236 | INFO | [EMAIL] @priyafitwellness -> simulated
+2026-04-17 10:22:39,236 | INFO | [DRY RUN] Would DM @priyafitwellness
+2026-04-17 10:22:39,236 | INFO | [INSTAGRAM_DM] @priyafitwellness -> simulated
+2026-04-17 10:22:39,236 | INFO | [DRY RUN] Would email: ananya.bose.active@gmail.com
+2026-04-17 10:22:39,236 | INFO | [EMAIL] @ananyaactivewear -> simulated
+2026-04-17 10:22:39,236 | INFO | [DRY RUN] Would DM @ananyaactivewear
+2026-04-17 10:22:39,236 | INFO | [INSTAGRAM_DM] @ananyaactivewear -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would email: kabir.singh.boxing@gmail.com
+2026-04-17 10:22:39,245 | INFO | [EMAIL] @kabirboxingfit -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would DM @kabirboxingfit
+2026-04-17 10:22:39,245 | INFO | [INSTAGRAM_DM] @kabirboxingfit -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would email: tanya.malhotra.dance@gmail.com
+2026-04-17 10:22:39,245 | INFO | [EMAIL] @tanyadancefitness -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would DM @tanyadancefitness
+2026-04-17 10:22:39,245 | INFO | [INSTAGRAM_DM] @tanyadancefitness -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would email: kavya.menon.mindful@gmail.com
+2026-04-17 10:22:39,245 | INFO | [EMAIL] @kavyamindfulfit -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would DM @kavyamindfulfit
+2026-04-17 10:22:39,245 | INFO | [INSTAGRAM_DM] @kavyamindfulfit -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would email: harsh.agarwal.crossfit@gmail.com
+2026-04-17 10:22:39,245 | INFO | [EMAIL] @harshcrossfit -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would DM @harshcrossfit
+2026-04-17 10:22:39,245 | INFO | [INSTAGRAM_DM] @harshcrossfit -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would email: aditi.kulkarni.yoga@gmail.com
+2026-04-17 10:22:39,245 | INFO | [EMAIL] @aditihotyoga -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would DM @aditihotyoga
+2026-04-17 10:22:39,245 | INFO | [INSTAGRAM_DM] @aditihotyoga -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would email: neha.jain.bellydance@gmail.com
+2026-04-17 10:22:39,245 | INFO | [EMAIL] @nehabellydance -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would DM @nehabellydance
+2026-04-17 10:22:39,245 | INFO | [INSTAGRAM_DM] @nehabellydance -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would email: ritika.kapoor.moms@gmail.com
+2026-04-17 10:22:39,245 | INFO | [EMAIL] @ritikamumsfit -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would DM @ritikamumsfit
+2026-04-17 10:22:39,245 | INFO | [INSTAGRAM_DM] @ritikamumsfit -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would email: poornima.nambiar.strong@gmail.com
+2026-04-17 10:22:39,245 | INFO | [EMAIL] @poornimawomensfit -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would DM @poornimawomensfit
+2026-04-17 10:22:39,245 | INFO | [INSTAGRAM_DM] @poornimawomensfit -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would email: tanvi.mehrotra.pcos@gmail.com
+2026-04-17 10:22:39,245 | INFO | [EMAIL] @tanvifemalefit -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would DM @tanvifemalefit
+2026-04-17 10:22:39,245 | INFO | [INSTAGRAM_DM] @tanvifemalefit -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would email: prathima.gowda.food@gmail.com
+2026-04-17 10:22:39,245 | INFO | [EMAIL] @prathimafoodfitness -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would DM @prathimafoodfitness
+2026-04-17 10:22:39,245 | INFO | [INSTAGRAM_DM] @prathimafoodfitness -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would email: simran.kaur.bhangra@gmail.com
+2026-04-17 10:22:39,245 | INFO | [EMAIL] @simranbhangrafitness -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would DM @simranbhangrafitness
+2026-04-17 10:22:39,245 | INFO | [INSTAGRAM_DM] @simranbhangrafitness -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would email: kriti.srivastava.detox@gmail.com
+2026-04-17 10:22:39,245 | INFO | [EMAIL] @kritidetoxfit -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would DM @kritidetoxfit
+2026-04-17 10:22:39,245 | INFO | [INSTAGRAM_DM] @kritidetoxfit -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would email: harpreet.gill.punjab@gmail.com
+2026-04-17 10:22:39,245 | INFO | [EMAIL] @harpreetpunjabfit -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would DM @harpreetpunjabfit
+2026-04-17 10:22:39,245 | INFO | [INSTAGRAM_DM] @harpreetpunjabfit -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would email: hema.sundaram.yoga@gmail.com
+2026-04-17 10:22:39,245 | INFO | [EMAIL] @hemayogaayurveda -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would DM @hemayogaayurveda
+2026-04-17 10:22:39,245 | INFO | [INSTAGRAM_DM] @hemayogaayurveda -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would email: arjun.mehta.fitness@gmail.com
+2026-04-17 10:22:39,245 | INFO | [EMAIL] @arjunfitlife -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would DM @arjunfitlife
+2026-04-17 10:22:39,245 | INFO | [INSTAGRAM_DM] @arjunfitlife -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would email: sneha.iyer.runs@gmail.com
+2026-04-17 10:22:39,245 | INFO | [EMAIL] @sneharunswild -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would DM @sneharunswild
+2026-04-17 10:22:39,245 | INFO | [INSTAGRAM_DM] @sneharunswild -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would email: vikram.nair.hiit@gmail.com
+2026-04-17 10:22:39,245 | INFO | [EMAIL] @vikramhiit -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would DM @vikramhiit
+2026-04-17 10:22:39,245 | INFO | [INSTAGRAM_DM] @vikramhiit -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would email: riya.joshi.postpartum@gmail.com
+2026-04-17 10:22:39,245 | INFO | [EMAIL] @riyapostpartum -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would DM @riyapostpartum
+2026-04-17 10:22:39,245 | INFO | [INSTAGRAM_DM] @riyapostpartum -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would email: aditya.kumar.vegan@gmail.com
+2026-04-17 10:22:39,245 | INFO | [EMAIL] @adityaveganfit -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would DM @adityaveganfit
+2026-04-17 10:22:39,245 | INFO | [INSTAGRAM_DM] @adityaveganfit -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would email: nisha.reddy.weightloss@gmail.com
+2026-04-17 10:22:39,245 | INFO | [EMAIL] @nishaweightloss -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would DM @nishaweightloss
+2026-04-17 10:22:39,245 | INFO | [INSTAGRAM_DM] @nishaweightloss -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would email: divya.shetty.pilates@gmail.com
+2026-04-17 10:22:39,245 | INFO | [EMAIL] @divyapilatesfit -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would DM @divyapilatesfit
+2026-04-17 10:22:39,245 | INFO | [INSTAGRAM_DM] @divyapilatesfit -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would email: akash.bajaj.sports@gmail.com
+2026-04-17 10:22:39,245 | INFO | [EMAIL] @akashsportfit -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would DM @akashsportfit
+2026-04-17 10:22:39,245 | INFO | [INSTAGRAM_DM] @akashsportfit -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would email: shreya.chatterjee.home@gmail.com
+2026-04-17 10:22:39,245 | INFO | [EMAIL] @shreyahomeworkout -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would DM @shreyahomeworkout
+2026-04-17 10:22:39,245 | INFO | [INSTAGRAM_DM] @shreyahomeworkout -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would email: anjali.singh.stretch@gmail.com
+2026-04-17 10:22:39,245 | INFO | [EMAIL] @anjalistretchfit -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would DM @anjalistretchfit
+2026-04-17 10:22:39,245 | INFO | [INSTAGRAM_DM] @anjalistretchfit -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would email: karan.oberoi.athlete@gmail.com
+2026-04-17 10:22:39,245 | INFO | [EMAIL] @karanathletebody -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would DM @karanathletebody
+2026-04-17 10:22:39,245 | INFO | [INSTAGRAM_DM] @karanathletebody -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would email: swati.rajan.ayurveda@gmail.com
+2026-04-17 10:22:39,245 | INFO | [EMAIL] @swatiayurvedafit -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would DM @swatiayurvedafit
+2026-04-17 10:22:39,245 | INFO | [INSTAGRAM_DM] @swatiayurvedafit -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would email: vivek.pandya.kick@gmail.com
+2026-04-17 10:22:39,245 | INFO | [EMAIL] @vivekkickboxing -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would DM @vivekkickboxing
+2026-04-17 10:22:39,245 | INFO | [INSTAGRAM_DM] @vivekkickboxing -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would email: bharat.chawla.yogabro@gmail.com
+2026-04-17 10:22:39,245 | INFO | [EMAIL] @bharatyogabro -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would DM @bharatyogabro
+2026-04-17 10:22:39,245 | INFO | [INSTAGRAM_DM] @bharatyogabro -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would email: lalita.devi.fit50@gmail.com
+2026-04-17 10:22:39,245 | INFO | [EMAIL] @lalitaweightloss50 -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would DM @lalitaweightloss50
+2026-04-17 10:22:39,245 | INFO | [INSTAGRAM_DM] @lalitaweightloss50 -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would email: devika.naik.stretch@gmail.com
+2026-04-17 10:22:39,245 | INFO | [EMAIL] @devikastretchifit -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would DM @devikastretchifit
+2026-04-17 10:22:39,245 | INFO | [INSTAGRAM_DM] @devikastretchifit -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would email: mohammed.aziz.wrestle@gmail.com
+2026-04-17 10:22:39,245 | INFO | [EMAIL] @mohammedwrestlefit -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would DM @mohammedwrestlefit
+2026-04-17 10:22:39,245 | INFO | [INSTAGRAM_DM] @mohammedwrestlefit -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would email: meera.pillai.flex@gmail.com
+2026-04-17 10:22:39,245 | INFO | [EMAIL] @meeraflexibility -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would DM @meeraflexibility
+2026-04-17 10:22:39,245 | INFO | [INSTAGRAM_DM] @meeraflexibility -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would email: pooja.rao.seniorfit@gmail.com
+2026-04-17 10:22:39,245 | INFO | [EMAIL] @poojaseniorfit -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would DM @poojaseniorfit
+2026-04-17 10:22:39,245 | INFO | [INSTAGRAM_DM] @poojaseniorfit -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would email: suresh.krishnan.martial@gmail.com
+2026-04-17 10:22:39,245 | INFO | [EMAIL] @sureshmartialfit -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would DM @sureshmartialfit
+2026-04-17 10:22:39,245 | INFO | [INSTAGRAM_DM] @sureshmartialfit -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would email: rajan.pillai.swim@gmail.com
+2026-04-17 10:22:39,245 | INFO | [EMAIL] @rajanswimcoach -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would DM @rajanswimcoach
+2026-04-17 10:22:39,245 | INFO | [INSTAGRAM_DM] @rajanswimcoach -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would email: deepak.gupta.nutri@gmail.com
+2026-04-17 10:22:39,245 | INFO | [EMAIL] @deepaknutrifitness -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would email: saurabh.pandey.cycle@gmail.com
+2026-04-17 10:22:39,245 | INFO | [EMAIL] @saurabhcyclist -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would email: rohit.thakur.swim@gmail.com
+2026-04-17 10:22:39,245 | INFO | [EMAIL] @rohitswimfit -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would DM @rohitswimfit
+2026-04-17 10:22:39,245 | INFO | [INSTAGRAM_DM] @rohitswimfit -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would email: manish.tiwari.trail@gmail.com
+2026-04-17 10:22:39,245 | INFO | [EMAIL] @manishtrailrun -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would email: nikhil.desai.natty@gmail.com
+2026-04-17 10:22:39,245 | INFO | [EMAIL] @nikhilbodybuilder -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would email: pranav.mishra.keto@gmail.com
+2026-04-17 10:22:39,245 | INFO | [EMAIL] @pranavketofitness -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would email: sameer.bhat.outdoor@gmail.com
+2026-04-17 10:22:39,245 | INFO | [EMAIL] @sameeroutdoorfit -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would DM @sameeroutdoorfit
+2026-04-17 10:22:39,245 | INFO | [INSTAGRAM_DM] @sameeroutdoorfit -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would email: gaurav.saxena.gym@gmail.com
+2026-04-17 10:22:39,245 | INFO | [EMAIL] @gauravgymbro -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would email: chirag.shah.calisthenics@gmail.com
+2026-04-17 10:22:39,245 | INFO | [EMAIL] @chiragcalisthenics -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would email: arun.varma.triathlon@gmail.com
+2026-04-17 10:22:39,245 | INFO | [EMAIL] @aruntriathlonind -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would email: vandana.tripathi.nature@gmail.com
+2026-04-17 10:22:39,245 | INFO | [EMAIL] @vandananaturopath -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would email: sanjay.dubey.parkour@gmail.com
+2026-04-17 10:22:39,245 | INFO | [EMAIL] @sanjayparkourindia -> simulated
+2026-04-17 10:22:39,245 | INFO | [DRY RUN] Would email: rahul.verma.strength@gmail.com
+2026-04-17 10:22:39,245 | INFO | [EMAIL] @rahulstrength -> simulated
+2026-04-17 10:22:39,261 | INFO | Delivery log saved -> output/delivery_log.csv
